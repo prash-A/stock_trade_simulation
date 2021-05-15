@@ -1,0 +1,14 @@
+{
+    "TICKERS": ["UBER"],
+    "UBER":  
+      {
+        "name": "UBER co",
+        "quantity": 100,
+        "isActive": false,
+        "investedAmount": 2000,
+        "currentValue": 0,
+        "profit": 0,
+        "loss": 0 
+      }
+       
+}
