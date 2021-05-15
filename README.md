@@ -1,4 +1,4 @@
-**step 1 : add your wallet balance in wallet.json
+step 1 : add your wallet balance in wallet.json
 
 **step 2 : add your investment portfolio manually in investment.json**
 
