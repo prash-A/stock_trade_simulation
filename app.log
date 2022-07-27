@@ -110,3 +110,8 @@ root - INFO - Assets running in profit
 root - INFO - -------------------->>
 root - INFO - Market is running ...
 root - INFO - {'name': 'UBER co', 'quantity': 100, 'isActive': True, 'investedAmount': 4741.999816894531, 'currentValue': 132000.0, 'profit': 127258.00018310547, 'loss': 0}
+
+
+Testing :
+
+1.Committing and pushing from main branch
