@@ -2,6 +2,8 @@
 
 **step 2 : add your investment portfolio manually in investment.json**
 
+**step 24
+
 **step 3 : run python stock_broker.py in background.**
 
 
