@@ -4,7 +4,8 @@ pipeline {
         stage('build') {
             steps {
                 sh 'python --version'
-                ss 'perl --version'
+                sh 'perl --version'
+                sh 'java --verion'
             }
         }
     }
